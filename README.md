@@ -1,2 +1,2 @@
-# tes-git
+# tes-github
 Uji coba belajar Git 
