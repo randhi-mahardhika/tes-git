@@ -1,0 +1,9 @@
+Rencana struktur web uji coba:
+
+Page satu halaman (scroll down)
+- Homepage (label: Lobby)
+- Section 1 (label: Advantage)
+- Section 2 (label: Recent Works)
+- Section 3 (label: What we do)
+- Section 4 (label: Offers)
+- Section 5 (label: FAQ's)
