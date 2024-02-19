@@ -7,5 +7,5 @@ Page satu halaman (scroll down)
 - Section 3 (label: What we do)
 - Section 4 (label: Offers)
 - Section 5 (label: FAQ's)
-- Integrasi dengan Trello
-- Payment Gateway dengan Midtrans
+- Fokus uji fitur Integrasi dengan Trello
+
