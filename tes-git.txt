@@ -2,3 +2,5 @@ Uji Coba Git
 - Belajar Branch
 - Belajar Fork
 - Belajar Merge
+- Belajar merge conflict
+- Belajar Git remote
