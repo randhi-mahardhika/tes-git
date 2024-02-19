@@ -1,2 +1,2 @@
 # tes-github
-Uji coba belajar Git 
+Uji coba belajar GitHub
